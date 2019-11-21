@@ -4,11 +4,11 @@ Magento 2 project that contains multiple modules and themes.
 
 This setup contains 2 modules and 2 themes:
 
-[app/code/ShopBonsai/AdminThemeEnabler/README.md](ShopBonsai_AdminThemeEnabler [Module that enables a custom made Admin Theme])
+[ShopBonsai_AdminThemeEnabler (Module that enables a custom made Admin Theme)](app/code/ShopBonsai/AdminThemeEnabler/README.md)
 
-[app/code/ShopBonsai/CustomShipping/README.md](ShopBonsai_CustomShipping [Custom Shipping Method])
+[ShopBonsai_CustomShipping (Custom Shipping Method)](app/code/ShopBonsai/CustomShipping/README.md)
 
-[app/design/frontend/ShopBonsai/Starter/README.md](ShopBonsai Starter Theme [Frontend theme])
+[ShopBonsai Starter Theme (Frontend theme)](app/design/frontend/ShopBonsai/Starter/README.md)
 
 [app/design/adminhtml/ShopBonsai/Admin/README.md](ShopBonsai Admin Theme [Admin theme])
 
