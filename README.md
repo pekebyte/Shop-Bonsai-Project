@@ -10,7 +10,7 @@ This setup contains 2 modules and 2 themes:
 
 [ShopBonsai Starter Theme (Frontend theme)](app/design/frontend/ShopBonsai/Starter/README.md)
 
-[app/design/adminhtml/ShopBonsai/Admin/README.md](ShopBonsai Admin Theme [Admin theme])
+[ShopBonsai Admin Theme (Admin theme)](app/design/adminhtml/ShopBonsai/Admin/README.md)
 
 # Original Readme
 
